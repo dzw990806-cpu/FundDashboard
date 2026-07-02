@@ -221,4 +221,8 @@ eval "set -- $(
         tr '\n' ' '
     )" '"$@"'
 
+<<<<<<< HEAD
 exec "$JAVACMD" "$@"
+=======
+exec "$JAVACMD" "$@"
+>>>>>>> b58739466ba13d9f53a3b02bc7a9e00761485e6b
